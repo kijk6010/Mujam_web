@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>MuJaM</title>
+    <!-- Favicon icon -->
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon.png">
+    <!-- Custom Stylesheet -->
+    <link href="css/style.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+<!--*******************
+    Preloader start
+********************-->
+<div id="preloader">
+    <div class="loader">
+        <svg class="circular" viewBox="25 25 50 50">
+            <circle class="path" cx="50" cy="50" r="20" fill="none" stroke-width="3" stroke-miterlimit="10" />
+        </svg>
+    </div>
+</div>
+<!--*******************
+    Preloader end
+********************-->
+
+
+<!--**********************************
+    Main wrapper start
+***********************************-->
+<div id="main-wrapper">
+
+    <!--**********************************
+        Nav header start
+    ***********************************-->
+    <div class="nav-header">
+        <div class="brand-logo">
+            <a href="index.html">
+                <b class="logo-abbr"><img src="images/logo.png" alt=""> </b>
+                <span class="logo-compact"></span>
+                <span class="brand-title">
+                        MuJaM
+                    </span>
+            </a>
+        </div>
+    </div>
+    <!--**********************************
+        Nav header end
+    ***********************************-->
+
+    <!--**********************************
+        Header start
+    ***********************************-->
+    <div class="header">
+        <div class="header-content clearfix">
+
+            <div class="nav-control">
+                <div class="hamburger">
+                    <span class="toggle-icon"><i class="icon-menu"></i></span>
+                </div>
+            </div>
+            <div class="header-left">
+                <div class="input-group icons">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text bg-transparent border-0 pr-2 pr-sm-3" id="basic-addon1"><i class="mdi mdi-magnify"></i></span>
+                    </div>
+                    <input type="search" class="form-control" placeholder="Search.." aria-label="SearchBox">
+                    <div class="drop-down  d-md-none">
+                        <form action="#">
+                            <input type="text" class="form-control" placeholder="Search">
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="header-right">
+                <ul class="clearfix">
+                    <li class="icons">
+                        <button type="button" class="btn mb-1 btn-outline-light">로그인</button>
+                    </li>
+                    <li class="icons">
+                        <button type="button" class="btn mb-1 btn-outline-light">회원가입</button>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!--**********************************
+        Header end ti-comment-alt
+    ***********************************-->
+
+    <!--**********************************
+        Sidebar start
+    ***********************************-->
+    <div class="nk-sidebar">
+        <div class="nk-nav-scroll">
+            <ul class="metismenu" id="menu">
+                <li class="nav-label">Public</li>
+                <li>
+                    <a  aria-expanded="false" href="#">
+                        <i class="icon-star menu-icon"></i><span class="nav-text">NEW Music</span>
+                    </a>
+                </li>
+                <li>
+                    <a  aria-expanded="false" href="#">
+                        <i class="icon-fire menu-icon"></i><span class="nav-text">HOT Music</span>
+                    </a>
+                </li>
+                <li>
+                    <a  aria-expanded="false" href="#">
+                        <i class="icon-people menu-icon"></i><span class="nav-text">MUSICIAN</span>
+                    </a>
+                </li>
+                <li>
+                    <a  aria-expanded="false" href="#">
+                        <i class="icon-diamond menu-icon"></i><span class="nav-text">BACKSTAGE</span>
+                    </a>
+                </li>
+                <li class="nav-label"><hr/></li>
+                <li class="nav-label">User</li>
+                <li>
+                    <a  aria-expanded="false" href="#">
+                        <i class="icon-like menu-icon"></i><span class="nav-text">LIKE</span>
+                    </a>
+                </li>
+                <li>
+                    <a  aria-expanded="false" href="#">
+                        <i class="icon-heart menu-icon"></i><span class="nav-text">FOLLOW</span>
+                    </a>
+                </li>
+                <li>
+                    <a  aria-expanded="false" href="#">
+                        <i class="icon-playlist menu-icon"></i><span class="nav-text">My PlayList</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <!--**********************************
+        Sidebar end
+    ***********************************-->
+
+    <!--**********************************
+        Content body start
+    ***********************************-->
+    <div class="content-body">
+
+        <div class="row page-titles mx-0">
+            <div class="col p-md-0">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="javascript:void(0)">PUBLIC</a></li>
+                    <li class="breadcrumb-item active"><a href="javascript:void(0)">NEW Music</a></li>
+                </ol>
+            </div>
+        </div>
+        <!-- row -->
+
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-12 m-b-30">
+                    <div class="row">
+                      <div class="col-sm-8">
+                         <h2 class="d-inline">NEW MUSIC</h2>
+                      </div>
+                      <div class="col-sm-2 input-group">
+                          <label class="input-group-prepend">Genre 1:&nbsp;</label>
+                          <select class="custom-select" id="sel1">
+                              <option>전체</option>
+                              <option>2</option>
+                              <option>3</option>
+                              <option>4</option>
+                          </select>
+                      </div>
+                        <div class="col-sm-2 input-group">
+                            <label class="input-group-prepend">Genre 2:&nbsp;</label>
+                            <select class="custom-select" id="sel2">
+                                <option>전체</option>
+                                <option>2</option>
+                                <option>3</option>
+                                <option>4</option>
+                            </select>
+                        </div>
+                    </div><br><br>
+                    <div class="card-deck">
+                        <div class="card">
+                            <iframe width="auto" height="250" src="https://www.youtube.com/embed/4tJ7cVpONo4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <div class="card-body">
+                                <h5 class="card-title">비와이 킬링벌스 - 비와이</h5>
+                                <p class="card-text"></p>
+                            </div>
+                            <div class="card-footer">
+                                <small class="text-muted">Last updated 3 mins ago</small>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <iframe width="auto" height="250" src="https://www.youtube.com/embed/4tJ7cVpONo4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <div class="card-body">
+                                <h5 class="card-title">비와이 킬링벌스 - 비와이</h5>
+                                <p class="card-text"></p>
+                            </div>
+                            <div class="card-footer">
+                                <small class="text-muted">Last updated 3 mins ago</small>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <iframe width="auto" height="250" src="https://www.youtube.com/embed/4tJ7cVpONo4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <div class="card-body">
+                                <h5 class="card-title">비와이 킬링벌스 - 비와이</h5>
+                                <p class="card-text"></p>
+                            </div>
+                            <div class="card-footer">
+                                <small class="text-muted">Last updated 3 mins ago</small>
+                            </div>
+                        </div>
+                    </div><br>
+                    <div class="card-deck">
+                        <div class="card">
+                            <iframe width="auto" height="250" src="https://www.youtube.com/embed/4tJ7cVpONo4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <div class="card-body">
+                                <h5 class="card-title">비와이 킬링벌스 - 비와이</h5>
+                                <p class="card-text"></p>
+                            </div>
+                            <div class="card-footer">
+                                <small class="text-muted">Last updated 3 mins ago</small>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <iframe width="auto" height="250" src="https://www.youtube.com/embed/4tJ7cVpONo4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <div class="card-body">
+                                <h5 class="card-title">비와이 킬링벌스 - 비와이</h5>
+                                <p class="card-text"></p>
+                            </div>
+                            <div class="card-footer">
+                                <small class="text-muted">Last updated 3 mins ago</small>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <iframe width="auto" height="250" src="https://www.youtube.com/embed/4tJ7cVpONo4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <div class="card-body">
+                                <h5 class="card-title">비와이 킬링벌스 - 비와이</h5>
+                                <p class="card-text"></p>
+                            </div>
+                            <div class="card-footer">
+                                <small class="text-muted">Last updated 3 mins ago</small>
+                            </div>
+                        </div>
+                    </div><br>
+                    <div class="card-deck">
+                        <div class="card">
+                            <iframe width="auto" height="250" src="https://www.youtube.com/embed/4tJ7cVpONo4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <div class="card-body">
+                                <h5 class="card-title">비와이 킬링벌스 - 비와이</h5>
+                                <p class="card-text"></p>
+                            </div>
+                            <div class="card-footer">
+                                <small class="text-muted">Last updated 3 mins ago</small>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <iframe width="auto" height="250" src="https://www.youtube.com/embed/4tJ7cVpONo4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <div class="card-body">
+                                <h5 class="card-title">비와이 킬링벌스 - 비와이</h5>
+                                <p class="card-text"></p>
+                            </div>
+                            <div class="card-footer">
+                                <small class="text-muted">Last updated 3 mins ago</small>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <iframe width="auto" height="250" src="https://www.youtube.com/embed/4tJ7cVpONo4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <div class="card-body">
+                                <h5 class="card-title">비와이 킬링벌스 - 비와이</h5>
+                                <p class="card-text"></p>
+                            </div>
+                            <div class="card-footer">
+                                <small class="text-muted">Last updated 3 mins ago</small>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <!-- #/ container -->
+    </div><br>
+    <!--**********************************
+        Content body end
+    ***********************************-->
+
+
+    <!--**********************************
+        Footer start
+    ***********************************-->
+    <div class="footer">
+        <div class="copyright">
+            <p>Copyright &copy; Designed & Developed by GajahCompany</p>
+        </div>
+    </div>
+    <!--**********************************
+        Footer end
+    ***********************************-->
+</div>
+<!--**********************************
+    Main wrapper end
+***********************************-->
+
+<!--**********************************
+    Scripts
+***********************************-->
+<script src="plugins/common/common.min.js"></script>
+<script src="js/custom.min.js"></script>
+<script src="js/settings.js"></script>
+<script src="js/gleek.js"></script>
+<script src="js/styleSwitcher.js"></script>
+
+</body>
+
+</html>
