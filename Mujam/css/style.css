@@ -4279,20 +4279,25 @@ button.close {
   color: #76838f; }
 
 .carousel {
-  position: relative; }
+  position: relative;
+}
 
 .carousel-inner {
   position: relative;
   width: 100%;
-  overflow: hidden; }
+  overflow: hidden;
+}
 
 .carousel-item {
   position: relative;
   display: none;
   align-items: center;
   width: 100%;
+  height:400px;
   backface-visibility: hidden;
-  perspective: 1000px; }
+  perspective: 1000px;
+
+}
 
 .carousel-item.active,
 .carousel-item-next,
@@ -4448,9 +4453,9 @@ button.close {
   right: 15%;
   bottom: 20px;
   left: 15%;
-  z-index: 10;
+  /*z-index: 10;
   padding-top: 20px;
-  padding-bottom: 20px;
+  padding-bottom: 20px;*/
   color: #fff;
   text-align: center; }
 
@@ -14715,7 +14720,7 @@ html[dir="rtl"] [direction="rtl"][data-sidebar-style="compact"]:not([data-layout
   top: 0;
   left: 0;
   width: 100%;
-  height: 100%;
+  height: 400px;
 }
 .video {
   background: rgba(255, 255, 255, 0.075);
