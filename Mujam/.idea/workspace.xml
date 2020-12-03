@@ -20,7 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6f6dcf8-0382-4a7b-964b-e795b2a2c6fc" name="Default Changelist" comment="intro페이지 작성">
-      <change beforePath="$PROJECT_DIR$/mu_Intro.html" beforeDir="false" afterPath="$PROJECT_DIR$/mu_Intro.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewMusic.html" beforeDir="false" afterPath="$PROJECT_DIR$/NewMusic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videoPlay.html" beforeDir="false" afterPath="$PROJECT_DIR$/videoPlay.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +61,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.mu_Intro.html">
+  <component name="RunManager" selected="JavaScript Debug.videoPlay.html">
     <configuration name="NewMusic.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Mujam/NewMusic.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -77,10 +79,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.mu_Intro.html" />
-        <item itemvalue="JavaScript Debug.NewMusic.html" />
-        <item itemvalue="JavaScript Debug.mu_Main.html" />
         <item itemvalue="JavaScript Debug.videoPlay.html" />
+        <item itemvalue="JavaScript Debug.NewMusic.html" />
+        <item itemvalue="JavaScript Debug.mu_Intro.html" />
+        <item itemvalue="JavaScript Debug.mu_Main.html" />
         <item itemvalue="JavaScript Debug.ui-cards.html" />
       </list>
     </recent_temporary>
@@ -102,7 +104,8 @@
       <workItem from="1606737310533" duration="5336000" />
       <workItem from="1606972389214" duration="11927000" />
       <workItem from="1606984942788" duration="233000" />
-      <workItem from="1606985207878" duration="41000" />
+      <workItem from="1606985207878" duration="655000" />
+      <workItem from="1607021053244" duration="784000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1605775618965</created>
@@ -195,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606983812707</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="intro페이지 작성">
+      <created>1606985276038</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1606985276038</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -300,10 +310,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1208" height="258" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1606727100970" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1606983925375">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1606985309522">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606983925375" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606985309522" />
     <state x="310" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1606980391893">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
