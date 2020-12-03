@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c6f6dcf8-0382-4a7b-964b-e795b2a2c6fc" name="Default Changelist" comment="intro페이지 작성">
+      <change beforePath="$PROJECT_DIR$/mu_Intro.html" beforeDir="false" afterPath="$PROJECT_DIR$/mu_Intro.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1kVAnyEWiC6jGO4MWJxcGxsb5bR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../MuJam" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.mu_Intro.html">
+    <configuration name="NewMusic.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Mujam/NewMusic.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="mu_Intro.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Mujam/mu_Intro.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="mu_Main.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Mujam/mu_Main.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="ui-cards.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Mujam/ui-cards.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="videoPlay.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Mujam/videoPlay.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.mu_Intro.html" />
+        <item itemvalue="JavaScript Debug.NewMusic.html" />
+        <item itemvalue="JavaScript Debug.mu_Main.html" />
+        <item itemvalue="JavaScript Debug.videoPlay.html" />
+        <item itemvalue="JavaScript Debug.ui-cards.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6f6dcf8-0382-4a7b-964b-e795b2a2c6fc" name="Default Changelist" comment="" />
+      <created>1605775555970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605775555970</updated>
+      <workItem from="1605775557115" duration="364000" />
+      <workItem from="1605841811699" duration="9748000" />
+      <workItem from="1606281716752" duration="12095000" />
+      <workItem from="1606395809851" duration="853000" />
+      <workItem from="1606399482663" duration="20000" />
+      <workItem from="1606720348914" duration="6540000" />
+      <workItem from="1606737310533" duration="5336000" />
+      <workItem from="1606972389214" duration="11927000" />
+      <workItem from="1606984942788" duration="233000" />
+      <workItem from="1606985207878" duration="41000" />
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1605775618965</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605775618965</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test">
+      <created>1605775677618</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605775677618</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Mujam_sidebar/header 수정, blank 화면 작성">
+      <created>1605845090304</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605845090304</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Mujam 메인 틀만">
+      <created>1606285549330</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606285549330</updated>
+    </task>
+    <task id="LOCAL-00005" summary="New Music 틀만">
+      <created>1606288268560</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606288268560</updated>
+    </task>
+    <task id="LOCAL-00006" summary="영상재생페이지 틀만">
+      <created>1606293786200</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606293786200</updated>
+    </task>
+    <task id="LOCAL-00007" summary="기본색상변경">
+      <created>1606725047381</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1606725047381</updated>
+    </task>
+    <task id="LOCAL-00008" summary="image">
+      <created>1606726207680</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1606726207680</updated>
+    </task>
+    <task id="LOCAL-00009" summary=".">
+      <created>1606726358270</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1606726358270</updated>
+    </task>
+    <task id="LOCAL-00010" summary=".">
+      <created>1606726620030</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1606726620030</updated>
+    </task>
+    <task id="LOCAL-00011" summary="메인 carousel 크기조절">
+      <created>1606742645056</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1606742645056</updated>
+    </task>
+    <task id="LOCAL-00012" summary="수정1">
+      <created>1606983371063</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1606983371063</updated>
+    </task>
+    <task id="LOCAL-00013" summary="intro페이지 작성">
+      <created>1606983812707</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1606983812707</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <MESSAGE value="Mujam_sidebar/header 수정, blank 화면 작성" />
+    <MESSAGE value="Mujam 메인 틀만" />
+    <MESSAGE value="New Music 틀만" />
+    <MESSAGE value="영상재생페이지 틀만" />
+    <MESSAGE value="기본색상변경" />
+    <MESSAGE value="image" />
+    <MESSAGE value="." />
+    <MESSAGE value="메인 carousel 크기조절" />
+    <MESSAGE value="수정1" />
+    <MESSAGE value="intro페이지 작성" />
+    <option name="LAST_COMMIT_MESSAGE" value="intro페이지 작성" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="98" key="#Inspections" timestamp="1606980111572">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="275" y="98" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1606980111572" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1606978213599">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606978213599" />
+    <state width="1208" height="258" key="GridCell.Tab.0.bottom" timestamp="1606727100970">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1208" height="258" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606727100970" />
+    <state width="1208" height="258" key="GridCell.Tab.0.center" timestamp="1606727100970">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1208" height="258" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606727100970" />
+    <state width="1208" height="258" key="GridCell.Tab.0.left" timestamp="1606727100970">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1208" height="258" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606727100970" />
+    <state width="1208" height="258" key="GridCell.Tab.0.right" timestamp="1606727100970">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1208" height="258" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606727100970" />
+    <state width="1208" height="258" key="GridCell.Tab.1.bottom" timestamp="1606727100970">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1208" height="258" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606727100970" />
+    <state width="1208" height="258" key="GridCell.Tab.1.center" timestamp="1606727100970">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1208" height="258" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1606727100970" />
+    <state width="1208" height="258" key="GridCell.Tab.1.left" timestamp="1606727100970">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1208" height="258" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1606727100970" />
+    <state width="1208" height="258" key="GridCell.Tab.1.right" timestamp="1606727100970">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1208" height="258" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1606727100970" />
+    <state width="1208" height="258" key="GridCell.Tab.2.bottom" timestamp="1606727100970">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1208" height="258" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606727100970" />
+    <state width="1208" height="258" key="GridCell.Tab.2.center" timestamp="1606727100970">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1208" height="258" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1606727100970" />
+    <state width="1208" height="258" key="GridCell.Tab.2.left" timestamp="1606727100970">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1208" height="258" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1606727100970" />
+    <state width="1208" height="258" key="GridCell.Tab.2.right" timestamp="1606727100970">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1208" height="258" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1606727100970" />
+    <state width="1208" height="258" key="GridCell.Tab.3.bottom" timestamp="1606727100970">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1208" height="258" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606727100970" />
+    <state width="1208" height="258" key="GridCell.Tab.3.center" timestamp="1606727100970">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1208" height="258" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1606727100970" />
+    <state width="1208" height="258" key="GridCell.Tab.3.left" timestamp="1606727100970">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1208" height="258" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1606727100970" />
+    <state width="1208" height="258" key="GridCell.Tab.3.right" timestamp="1606727100970">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1208" height="258" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1606727100970" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1606983925375">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606983925375" />
+    <state x="310" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1606980391893">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="310" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1606980391893" />
+  </component>
+</project>
