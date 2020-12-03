@@ -3,7 +3,7 @@
 <html lang="ko">
 
 <head>
-    <meta HTTP-EQUIV="Refresh" CONTENT="3;URL=./mu_Main.html">
+    <meta HTTP-EQUIV="Refresh" CONTENT="4;URL=./mu_Main.html">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -19,8 +19,7 @@
 
 <body class="main">
 
-<img id = "loadingimg" style="display:none;" src="./images/intro.png" alt="" width="100%" >
-
+<video id="loadingVideo" style="display: none;" src="./video/mu_Intro.mp4" width="100%" autoplay></video>
 
 <script>
 
@@ -28,7 +27,7 @@
 
         setTimeout(function() {
 
-            $("#loadingimg").fadeIn(1500);
+            $("#loadingVideo").fadeIn(1500);
 
         });
 
