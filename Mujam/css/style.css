@@ -9543,7 +9543,7 @@ Fixing Order => Base + Typography >> General Layout + Grid >> Page Layout + Comp
   margin-bottom: 20px; }
 
 .login-form__btn {
-  background: #455F98;
+  background: rgb(189,0,72);
   color: #fff;
   padding: 13px 40px;
   font-size: 14px; }
@@ -9552,7 +9552,7 @@ Fixing Order => Base + Typography >> General Layout + Grid >> Page Layout + Comp
     padding-right: 5px; }
   .login-form__btn.submit {
     padding: 15px 40px;
-    background: #7571f9;
+    background: rgb(189,0,72);
     font-weight: 700; }
 
 .login-form__intro p, .login-form__intro h4 {
@@ -15049,13 +15049,13 @@ a:link {
 }
 
 .profile-header-img >a> img.img-circle {
-  width: 140px;
-  height: 140px;
+  width: 175px;
+  height: 175px;
   border: 2px solid rgb(11,11,11);
 }
 .profile-header-img > img.img-circle {
-  width: 140px;
-  height: 140px;
+  width: 175px;
+  height: 175px;
   border: 2px solid rgb(11,11,11);
 }
 .profile-header {
