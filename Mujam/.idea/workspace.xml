@@ -25,10 +25,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6f6dcf8-0382-4a7b-964b-e795b2a2c6fc" name="Default Changelist" comment="like페이지 틀 작성">
+    <list default="true" id="c6f6dcf8-0382-4a7b-964b-e795b2a2c6fc" name="Default Changelist" comment="musician페이지 작성">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/musician.html" beforeDir="false" afterPath="$PROJECT_DIR$/musician.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/follow.html" beforeDir="false" afterPath="$PROJECT_DIR$/follow.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,14 +67,14 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.musician.html">
+  <component name="RunManager" selected="JavaScript Debug.follow.html">
     <configuration name="NewMusic.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Mujam/NewMusic.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="musician.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Mujam/musician.html" useBuiltInWebServerPort="true">
+    <configuration name="follow.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Mujam/follow.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="playList.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Mujam/playList.html" useBuiltInWebServerPort="true">
+    <configuration name="musician.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Mujam/musician.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="uc-sweetalert.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Mujam/uc-sweetalert.html" useBuiltInWebServerPort="true">
@@ -85,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.follow.html" />
         <item itemvalue="JavaScript Debug.musician.html" />
         <item itemvalue="JavaScript Debug.uc-sweetalert.html" />
         <item itemvalue="JavaScript Debug.ui-cards.html" />
         <item itemvalue="JavaScript Debug.NewMusic.html" />
-        <item itemvalue="JavaScript Debug.playList.html" />
       </list>
     </recent_temporary>
   </component>
@@ -112,7 +112,7 @@
       <workItem from="1606984942788" duration="233000" />
       <workItem from="1606985207878" duration="655000" />
       <workItem from="1607021053244" duration="2513000" />
-      <workItem from="1608262276776" duration="7589000" />
+      <workItem from="1608262276776" duration="9777000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1605775618965</created>
@@ -240,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608264386309</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="musician페이지 작성">
+      <created>1608270103427</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1608270103427</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -274,7 +281,8 @@
     <MESSAGE value="intro영상 삽입" />
     <MESSAGE value="빈 페이지 4개 추가" />
     <MESSAGE value="like페이지 틀 작성" />
-    <option name="LAST_COMMIT_MESSAGE" value="like페이지 틀 작성" />
+    <MESSAGE value="musician페이지 작성" />
+    <option name="LAST_COMMIT_MESSAGE" value="musician페이지 작성" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="98" key="#Inspections" timestamp="1606980111572">
