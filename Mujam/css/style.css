@@ -15023,3 +15023,49 @@ a:link {
   margin-right: auto;*/
   width: 95%;
 }
+
+.filter-select{
+  float: right;
+  padding-top: 10px;
+
+}
+
+
+/*musician profile*/
+.profile-header-container{
+  margin: 0 auto;
+  text-align: center;
+}
+
+.profile-header-img {
+  padding: 10px;
+}
+
+.profile-header-img >a> img.img-circle {
+  width: 140px;
+  height: 140px;
+  border: 2px solid rgb(11,11,11);
+}
+.profile-header-img > img.img-circle {
+  width: 140px;
+  height: 140px;
+  border: 2px solid rgb(11,11,11);
+}
+.profile-header {
+  margin-top: 43px;
+}
+
+.rank-label-container {
+  margin-top: -19px;
+  /* z-index: 1000; */
+  text-align: center;
+}
+
+.label.label-default.rank-label {
+  background-color: rgb(189,0,72);
+  color: white;
+  padding: 5px 10px 5px 10px;
+  border-radius: 27px;
+}
+
+
