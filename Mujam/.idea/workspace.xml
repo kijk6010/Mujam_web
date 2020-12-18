@@ -10,6 +10,11 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
     </expand>
     <select>
       <path>
@@ -20,9 +25,12 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6f6dcf8-0382-4a7b-964b-e795b2a2c6fc" name="Default Changelist" comment="간단한 넓이, 배열 수정">
+    <list default="true" id="c6f6dcf8-0382-4a7b-964b-e795b2a2c6fc" name="Default Changelist" comment="intro영상 삽입">
+      <change afterPath="$PROJECT_DIR$/follow.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/like.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musician.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/playList.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mu_Intro.html" beforeDir="false" afterPath="$PROJECT_DIR$/mu_Intro.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +69,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.mu_Intro.html">
+  <component name="RunManager" selected="JavaScript Debug.mujam_blank.html">
     <configuration name="NewMusic.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Mujam/NewMusic.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -71,7 +79,7 @@
     <configuration name="mu_Main.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Mujam/mu_Main.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="ui-cards.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Mujam/ui-cards.html" useBuiltInWebServerPort="true">
+    <configuration name="mujam_blank.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Mujam/mujam_blank.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="videoPlay.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Mujam/videoPlay.html" useBuiltInWebServerPort="true">
@@ -79,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.mujam_blank.html" />
         <item itemvalue="JavaScript Debug.mu_Intro.html" />
         <item itemvalue="JavaScript Debug.videoPlay.html" />
         <item itemvalue="JavaScript Debug.NewMusic.html" />
         <item itemvalue="JavaScript Debug.mu_Main.html" />
-        <item itemvalue="JavaScript Debug.ui-cards.html" />
       </list>
     </recent_temporary>
   </component>
@@ -105,7 +113,8 @@
       <workItem from="1606972389214" duration="11927000" />
       <workItem from="1606984942788" duration="233000" />
       <workItem from="1606985207878" duration="655000" />
-      <workItem from="1607021053244" duration="1089000" />
+      <workItem from="1607021053244" duration="2513000" />
+      <workItem from="1608262276776" duration="709000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1605775618965</created>
@@ -212,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607021867326</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="intro영상 삽입">
+      <created>1607022206819</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1607022206819</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,7 +259,8 @@
     <MESSAGE value="수정1" />
     <MESSAGE value="intro페이지 작성" />
     <MESSAGE value="간단한 넓이, 배열 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="간단한 넓이, 배열 수정" />
+    <MESSAGE value="intro영상 삽입" />
+    <option name="LAST_COMMIT_MESSAGE" value="intro영상 삽입" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="98" key="#Inspections" timestamp="1606980111572">
@@ -318,10 +335,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1208" height="258" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1606727100970" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1606985309522">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1607025708683">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606985309522" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1607025708683" />
     <state x="310" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1606980391893">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
