@@ -15014,3 +15014,12 @@ a:link {
   margin-right: auto;
   width: 100%;
 }
+
+.hr1{
+  background-color: whitesmoke;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  /*margin-left: auto;
+  margin-right: auto;*/
+  width: 95%;
+}
