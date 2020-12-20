@@ -9545,8 +9545,22 @@ Fixing Order => Base + Typography >> General Layout + Grid >> Page Layout + Comp
 .login-form__btn {
   background: rgb(189,0,72);
   color: #fff;
-  padding: 13px 40px;
-  font-size: 14px; }
+  border-color: rgb(189,0,72);
+  font-size:17px;
+}
+.register-form__btn {
+  background: rgb(189,0,72);
+  color: #fff;
+  border-color: rgb(189,0,72);
+  font-size:20px;
+}
+.register-form__btn:active, .register-form__btn:focus, .register-form__btn:hover {
+  background: #fff;
+  color: rgb(189,0,72);
+  border-color: rgb(189,0,72);
+
+}
+
   .login-form__btn i, .login-form__btn span {
     font-size: 16px;
     padding-right: 5px; }
@@ -11609,6 +11623,12 @@ table.dataTable thead .sorting::after {
   background: transparent;
   border-radius: 0px;
   font-weight: 500; }
+.register-tab .nav-link {
+  background: transparent;
+  font-size: 15px;
+  width: 240px;
+  border-radius: 0px;
+  font-weight:bold; }
 
 .custom-tab-1 .nav-link {
   background: transparent;
@@ -15030,7 +15050,21 @@ a:link {
   margin-right: auto;*/
   width: 95%;
 }
-
+.hr2{
+  background-color: whitesmoke;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.hr3{
+  border: none;
+  border-top:2px dotted rgb(11,11,11);
+  background-color: gray;
+  width: 20%;
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+}
 .filter-select{
   float: right;
   padding-top: 10px;

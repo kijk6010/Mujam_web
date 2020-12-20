@@ -19,13 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5676a524-8009-4aac-92e8-a4c9cd0e78c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Mujam/mu_Login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mujam/mu_Register.html" afterDir="false" />
+    <list default="true" id="5676a524-8009-4aac-92e8-a4c9cd0e78c1" name="Default Changelist" comment="로그인 페이지 작성">
+      <change afterPath="$PROJECT_DIR$/Mujam/musician_register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mujam/user_register.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mujam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Mujam/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mujam/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Mujam/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mujam/playList.html" beforeDir="false" afterPath="$PROJECT_DIR$/Mujam/playList.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mujam/mu_Login.html" beforeDir="false" afterPath="$PROJECT_DIR$/Mujam/mu_Login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mujam/mu_Register.html" beforeDir="false" afterPath="$PROJECT_DIR$/Mujam/mu_Register.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,29 +60,29 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.musician.html">
-    <configuration name="mu_Intro.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Mujam_web/Mujam/mu_Intro.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.mu_Register.html">
+    <configuration name="layout-wide.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Mujam_web/Mujam/layout-wide.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="mu_Login.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Mujam_web/Mujam/mu_Login.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="mu_Register.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Mujam_web/Mujam/mu_Register.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="musician.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Mujam_web/Mujam/musician.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="page-login.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Mujam_web/Mujam/page-login.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="ui-alert.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Mujam_web/Mujam/ui-alert.html" useBuiltInWebServerPort="true">
+    <configuration name="ui-button.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Mujam_web/Mujam/ui-button.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.musician.html" />
+        <item itemvalue="JavaScript Debug.mu_Register.html" />
         <item itemvalue="JavaScript Debug.mu_Login.html" />
-        <item itemvalue="JavaScript Debug.page-login.html" />
-        <item itemvalue="JavaScript Debug.mu_Intro.html" />
-        <item itemvalue="JavaScript Debug.ui-alert.html" />
+        <item itemvalue="JavaScript Debug.ui-button.html" />
+        <item itemvalue="JavaScript Debug.layout-wide.html" />
+        <item itemvalue="JavaScript Debug.musician.html" />
       </list>
     </recent_temporary>
   </component>
@@ -97,8 +97,16 @@
       <workItem from="1606978126035" duration="8000" />
       <workItem from="1606978179868" duration="9000" />
       <workItem from="1608275043970" duration="93000" />
-      <workItem from="1608275391425" duration="6084000" />
+      <workItem from="1608275391425" duration="12446000" />
     </task>
+    <task id="LOCAL-00001" summary="로그인 페이지 작성">
+      <created>1608286336602</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608286336603</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +122,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="로그인 페이지 작성" />
+    <option name="LAST_COMMIT_MESSAGE" value="로그인 페이지 작성" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1515" height="261" key="GridCell.Tab.0.bottom" timestamp="1608282601459">
