@@ -11,6 +11,48 @@
     <link rel="icon" type="image/png" sizes="16x16" href="images/logo_M.png">
     <!-- Custom Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
+    <script language="JavaScript">
+        function useridCheck(){
+            var users=['123','asd','hotdog'];
+            var userID = document.getElementById('userID').value;
+
+            for(var i=0;i<users.length;i++){
+                if(userID==users[i]){
+                    document.getElementById("userID").value="";
+                    return alert(userID+"는 존재하는 아이디 입니다.");
+                }
+            }
+            return alert(userID+"는 사용 가능한 아이디 입니다.");
+        }
+
+        function nicknameCheck(){
+            var nick=['핫도그','손지','고수'];
+            var nickName = document.getElementById('nickname').value;
+
+            for(var i=0;i<nick.length;i++){
+                if(nickName==nick[i]){
+                    document.getElementById('nickname').value="";
+                    return alert(nickName+"는 존재하는 닉네임 입니다.");
+                }
+            }
+            return alert(nickName+"는 사용 가능한 닉네임 입니다.");
+        }
+
+        function passCheck(){
+            var pw1 = document.getElementById('pw1').value;
+            var pw2 = document.getElementById('pw2').value;
+
+            if(pw1!=""&&pw2!=""){
+                if(pw1==pw2){
+                    document.getElementById('check').innerHTML='비밀번호가 일치합니다.';
+                    document.getElementById('check').style.color='blue';
+                }else{
+                    document.getElementById('check').innerHTML='비밀번호가 일치하지 않습니다.';
+                    document.getElementById('check').style.color='red';
+                }
+            }
+        }
+    </script>
 </head>
 <body class="h-100">
 
@@ -41,22 +83,72 @@
                         <div class="card-body pt-5" style="text-align: center">
                             <a href="mu_Main.html"><img src="images/logo_mujam.png" width="300" alt=""></a>
                             <form class="mt-5 mb-5 login-input">
-                                <div class="form-group">
-                                    <label class="radio-inline mr-3">
-                                        <input type="radio" name="optradio" checked>&nbsp;&nbsp;<b>일반</b></label>
-                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                    <label class="radio-inline mr-3 ">
-                                        <input type="radio" name="optradio">&nbsp;&nbsp;<b>뮤지션</b></label>
+                                <div class="form-group row">
+                                    <div class="col-sm-6">
+                                        <input type="text" class="form-control" placeholder="아이디" id="userID">
+                                    </div>
+                                    <button type="button" class="btn mb-1 btn-rounded btn-outline-primary" onclick="useridCheck()">중복확인</button>
                                 </div>
                                 <div class="form-group">
-                                    <input type="email" class="form-control" placeholder="Email">
+                                    <input type="password" class="form-control" id="pw1" onchange="passCheck()" placeholder="비밀번호">
                                 </div>
                                 <div class="form-group">
-                                    <input type="password" class="form-control" placeholder="Password">
+                                    <input type="password" class="form-control"  id="pw2" onchange="passCheck()" placeholder="비밀번호 확인">
+                                    <span id="check"></span>
                                 </div>
-                                <button class="btn login-form__btn submit w-100">Sign In</button>
+                                <div class="form-group">
+                                    <input type="text" class="form-control col-sm-5" placeholder="사용자 이름">
+                                </div>
+                                <div class="form-group row">
+                                    <div class="col-sm-6">
+                                        <input type="text" class="form-control" id="nickname" placeholder="닉네임"></div>
+                                    <button type="button" class="btn mb-1 btn-rounded btn-outline-primary" onclick="nicknameCheck()">중복확인</button>
+                                </div>
+                                <div class="form-group row">
+                                    <div class="col-sm-6">
+                                        <input type="text" class="form-control" placeholder="010-1234-5678">
+                                    </div>
+                                    <button type="button" class="btn mb-1 btn-rounded btn-danger" onclick="nicknameCheck()">휴대폰 인증</button>
+                                </div>
+                                <div class="form-group">
+                                    <input type="email" class="form-control" placeholder="이메일 주소">
+                                </div>
+                                <div class="form-group row">
+                                    <div class="col-sm-6">
+                                        <input type="text" class="form-control" placeholder="instagram 계정">
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <input type="text" class="form-control" placeholder="youtube URL">
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <textarea class="form-control h-150px" rows="4" placeholder="자기소개"></textarea>
+                                </div>
+                                <div class="form-group row">
+                                    <div class="col-md-6">
+                                            <select id="genre" class="form-control">
+                                                <option selected="selected">* Genre(필수)</option>
+                                                <option>Balad</option>
+                                                <option>Jazz</option>
+                                                <option>Acoustic</option>
+                                            </select>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <select id="concept" class="form-control">
+                                            <option selected="selected">* Concept(선택)</option>
+                                            <option>신나는</option>
+                                            <option>울적한</option>
+                                            <option>잔잔한</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <input type="text" class="form-control" placeholder="집 주소(선택)">
+                                </div>
+
+                                <button class="btn login-form__btn submit w-100">Sign Up</button>
                             </form>
-                            <p class="mt-5 login-form__footer"> <a href="#">아이디 찾기</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#">비밀번호 찾기</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="page-register.html">회원가입</a></p>
+                            <p class="mt-5 login-form__footer"> <a href="mu_Register.html">뒤로가기</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="mu_Login.html">로그인</a></p>
                         </div>
                     </div>
                 </div>
